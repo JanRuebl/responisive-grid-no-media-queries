@@ -2,6 +2,6 @@
 A fully responsive CSS-grid without any media-queries
 
 
-![screenshot](img/full.png)
-![screenshot](img/half.png)
-![screenshot](img/small.png)
+![screenshot](img/full.PNG)
+![screenshot](img/half.PNG)
+![screenshot](img/small.PNG)
