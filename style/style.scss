@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+main{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-gap: 1rem; 
+    padding: 1rem;
+
+    .card{
+        transition: transform 1s;
+        border: 1px solid lightgray;
+
+        &:hover{
+            border: 1px solid gray;
+        }
+
+        p{
+            margin: .2rem;
+        }
+        h3{
+            margin: .2rem;
+        }
+        label{
+            margin: .2rem;
+            // font-size: ;
+        }
+        img{
+            width: 100%;
+            
+        }
+    }
+
+    
+
+   
+}
+
